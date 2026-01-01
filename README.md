@@ -5,10 +5,10 @@
 
 ```java
 // Welcome to Mission Control.
-class ChaminduSenadheera {
+class OneliVidusini {
     String currentRole = "Intern Software Engineer";
     String base = "Sri Lanka 🇱🇰";
-    String academy = "SLIIT | BSc (Hons) IT";
+    String academy = "SLIIT | BSc (Hons) Software Engineering";
     String mission = "Build scalable systems that think, learn, and adapt.";
     // 🚀 System status: Evolving...
 }
