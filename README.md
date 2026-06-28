@@ -17,9 +17,11 @@ class OneliVidusini {
 <h1 align="center">Hi 👋, I'm Oneli Vidusini</h1>
 <h3 align="center">A passionate Full-stack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oneli-vidusini&label=Profile%20views&color=0e75b6&style=flat" alt="oneli-vidusini" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=oneli-vidusini&label=Profile%20views&color=0e75b6&style=flat" alt="oneli-vidusini" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oneli-vidusini" alt="oneli-vidusini" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oneli-vidusini" alt="oneli-vidusini" /></a> </p> -->
+
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=700&lines=Intern+Software+Engineer;SLIIT+Undergraduate;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
 - 🔭 I’m currently working on [Hotel-Management-System](https://github.com/Oneli-Vidusini/Hotel-Management-System)
 
@@ -30,7 +32,7 @@ class OneliVidusini {
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oneli vidusini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oneli vidusini" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/81280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="81280" height="30" width="40" /></a>
+<!-- <a href="https://www.topcoder.com/members/81280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="81280" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
